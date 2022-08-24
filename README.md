@@ -1,4 +1,4 @@
-# _**todolist-js**_
+# _**ToDolist-Js**_
 ToDoList - JavaScript (OOP)
 ## _**Link para o github pages:**_
 
